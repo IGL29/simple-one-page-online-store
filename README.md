@@ -4,4 +4,5 @@
 
 index.html
 
-![Скриншот страницы](screenshots/screenshot.png "Скриншот страницы")
+![Скриншот страницы](screenshots/screenshot1.png "Скриншот страницы")
+![Скриншот страницы](screenshots/screenshot2.png "Скриншот страницы")
